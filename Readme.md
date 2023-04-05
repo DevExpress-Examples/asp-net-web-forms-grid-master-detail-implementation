@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - Simple master-detail implementation
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e248/)**
+**[[Run Online]](https://codecentral.devexpress.com/128532441/)**
 <!-- run online end -->
 
 This example demonstrates how to use a detail row template to display master-detail data.
