@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - Simple master-detail implementation
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128532441/)**
-<!-- run online end -->
 
 This example demonstrates how to use a detail row template to display master-detail data.
 
